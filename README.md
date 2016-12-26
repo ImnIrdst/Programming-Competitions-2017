@@ -2,9 +2,12 @@
 
 Codes for competing in Programming Competitions in 2017
 
-## Websites
+## Competitions
 
-- Hackerrank
+- HackerRank
 
 
-
+## Languages
+- Java
+- Python
+- C++
